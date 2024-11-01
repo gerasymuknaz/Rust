@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+    
+    
+
+main{
+
+}
+footer{
+    background-color:rgb(235, 78, 110);
+}
+header{
+    background-color: black;
+    color: crimson;
+    border-radius: 50px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+div {
+   
+}
